@@ -1,5 +1,64 @@
-# 🔭 GitScope AI (Groq Edition)
+🔭 GitScope AI (Groq Edition)
+Transform any GitHub repository into visual, interactive analysis — powered by Groq's ultra-fast Llama3 API.
 
+🔗  | 🎥 
+
+🚀 Overview
+GitScope AI is a multi-agent framework designed to perform deep, autonomous repository intelligence. By leveraging LangGraph and Groq's Llama3, it acts as a virtual engineering lead—instantly auditing codebases, summarizing architectures, and identifying security vulnerabilities with the fastest inference speeds available today.
+
+✨ Why Groq?
+✅ Free Tier: Highly accessible via .
+
+⚡ Ultra-Fast: Sub-second token generation for deep code reviews.
+
+🦙 Llama3 70B: Enterprise-grade logic in an open-source model.
+
+👥 Meet Team EliteCoders
+We are a team of passionate developers from the University of Lucknow building the future of automated code intelligence.
+Name ;Role; Email Address
+1) Astitva Bhardwaj ;Team Lead; bastitva0@gmail.com
+2) Vaibhav Singh; Member; vaibhavsingh1448@gmail.com
+3)Kulshreshtha Sharma; Member; ps4338360@gmail.com
+4)Harsh Tripathi ;Member ;aaharsh11z@gmail.com
+
+🧠 Multi-Agent Architecture
+GitScope AI operates using a Directed Cyclic Graph (DCG) orchestrated by LangGraph:
+
+The Scout: Crawls the file tree and identifies core logic files.
+
+The Auditor: Runs security checks and pattern analysis on selected snippets.
+
+The Architect: Summarizes the tech stack and system flow.
+
+The Reporter: Compiles all findings into a clean, interactive dashboard.
+
+🚀 Quick Start
+Step 1 — Backend
+Configure your .env:
+
+Step 2 — Frontend
+⚡ Open: 
+
+📁 Project Structure
+backend/: FastAPI + LangGraph + Groq Multi-Agent Logic.
+
+frontend/: React + Tailwind CSS Dashboard.
+
+extension/: Chrome Extension (Manifest v3) for one-click analysis.
+
+prompts/: Standardized AI prompt templates.
+
+🗺️ Roadmap
+[ ] Autonomous PRs: Let the agents suggest and open pull requests for fixes.
+
+[ ] Newschain Integration: Immutable blockchain-based audit logs for repositories.
+
+[ ] Multi-Repo Compare: Benchmarking two codebases against each other.
+
+🛡️ License
+Distributed under the MIT License. See LICENSE for more information.
+
+Built by EliteCoders for the 2026 AI Innovation Hackathon.
 > Transform any GitHub repository into visual, interactive analysis — powered by **Groq's free Llama3 API**.
 
 ## ✨ Why Groq?
